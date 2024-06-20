@@ -1,5 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/63hl3ea69r061lh5?svg=true)](https://ci.appveyor.com/project/ValentinSilivankov/ahj-code-dnd)
 
-
+[Git Pages](https://valentinsilivankov.github.io/ahj-code_dnd/)
 
 ### Trello
 
